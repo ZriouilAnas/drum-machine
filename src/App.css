@@ -1,0 +1,21 @@
+body, #drum-machine {
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .container {
+    
+    
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+.drum-pad {
+    width: 100%;
+}
